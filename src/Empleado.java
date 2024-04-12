@@ -1,3 +1,11 @@
+/**
+ * Clase que representa a un empleado.
+ *
+ * @author Francisco Javier Arenas Diaz
+ * @version 1.0
+ * @since 1.0
+ * @deprecated La clase empleado se quedará obsoleta ya que hay dos tipos de clase de Empleado con el mismo nombre.
+ */
 public class Empleado {
 	private int emp_no;
 	private String nombre;
@@ -6,7 +14,17 @@ public class Empleado {
 	private String oficio;
 	private Double salario;
 	private Departamento dept;
-	
+	/**
+	 * Constructor de la clase Empleado.
+	 *
+	 * @param emp_no Número de empleado.
+	 * @param nombre Nombre del empleado.
+	 * @param apellido Apellido del empleado.
+	 * @param pobla Población del empleado.
+	 * @param oficio Oficio del empleado.
+	 * @param salario Salario del empleado.
+	 * @param dept Departamento del empleado.
+	 */
 	public Empleado(int emp_no, String nombre, String apellido, String pobla, String oficio,
 					Double salario, Departamento dept) {
 		this.emp_no = emp_no;
