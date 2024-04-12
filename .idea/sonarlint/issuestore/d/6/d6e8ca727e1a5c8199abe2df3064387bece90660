@@ -1,0 +1,12 @@
+
+˜	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üµòÿÿÿÿÿ8Æ×Â‘í1J$32bb444e-660e-42c4-9245-c560dccb788f
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ—ÿøÿÿÿÿ8Æ×Â‘í1J$0e15a063-6cb1-4dfc-970c-02b9c0a30b2a
+“	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘è‡Š8Ç×Â‘í1J$0c04b594-673f-4b7e-bb47-676d4bcb738e
+]
+java:S1220""Move this file to a named package.8µö¼‘í1J$f93fdfb9-fab4-4edc-bf3e-a525f0c70b32
+“	java:S116"QRename this field "emp_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´âÇ8â×Â‘í1J$606ae1ec-94e9-4d30-bb48-605e62008cd3
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼”Ä–8ô×Â‘í1J$4d778c20-94f1-43e4-bf7b-bf6f9f8397c4
+	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘è‡Š8÷×Â‘í1J$4e6a4544-fecc-434f-b3f1-9aaa9e454bad
+„
+java:S1126c"AReplace this if-then-else statement by a single return statement.(Ç’Õ8„ØÂ‘í1J$7a5347a8-b925-40ab-a1b2-6c7a10c4f3d3
